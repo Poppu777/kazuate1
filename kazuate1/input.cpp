@@ -7,6 +7,5 @@ int t = (int)time(nullptr);
 int answer = t % 10;
 void inputNow()
 {
-    scanf_s("%d", &input);
-    
+    scanf_s("%d", &input); 
 }
