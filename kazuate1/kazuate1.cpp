@@ -6,11 +6,8 @@ int main()
 
     while (!gameClear)
     {
-        inputNow();
-        if (!gameClear)
-        {
-            judgeCpp();
-        }
+        inputNow();     
+        judgeCpp();  
     }
     return 0;
 }
