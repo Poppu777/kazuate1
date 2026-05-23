@@ -1,7 +1,4 @@
-﻿#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include "input.h"
+﻿#include "input.h"
 #include"judge.h"
 int main()
 {
