@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <time.h>
 #include"input.h"
 //ƒQ[ƒ€‚ğƒNƒŠƒA‚·‚é‚Ü‚ÅŒJ‚è•Ô‚µ
