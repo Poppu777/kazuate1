@@ -7,7 +7,7 @@ int main()
     while (!gameClear)
     {
         inputNow();     
-        judgeCpp();  
+        judge();  
     }
     return 0;
 }

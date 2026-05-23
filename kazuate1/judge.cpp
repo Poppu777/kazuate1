@@ -6,7 +6,7 @@ bool gameClear = false;
 
 
 // answer に入っている数値と、input に入っている数値が一致していれば「一致！」と表示する
-void judgeCpp()
+void judge()
 {
     if (answer == input)
     {

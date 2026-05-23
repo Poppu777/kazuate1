@@ -1,1 +1,1 @@
-void judgeCpp();
+void judge();
