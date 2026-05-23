@@ -5,7 +5,7 @@
 #include"judge.h"
 int main()
 {
-    static bool gameClear = false;
+    extern bool gameClear;
 
     while (!gameClear)
     {
@@ -13,10 +13,8 @@ int main()
         if (!gameClear)
         {
             judgeCpp();
-
-
         }
     }
-    
+    return 0;
 }
    

@@ -2,7 +2,7 @@
 #include"judge.h"
 extern int answer;
 extern int input;
-static bool gameClear = false;
+bool gameClear = false;
 
 
 // answer に入っている数値と、input に入っている数値が一致していれば「一致！」と表示する
@@ -33,5 +33,4 @@ void judgeCpp()
     {
         printf("ゲームクリア\n");
     }
-    return 0;
 }
